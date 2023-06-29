@@ -1,4 +1,5 @@
-## Hi there 👋
+## Game of Devs
+Grupo para dojos e webinars de computação avançada
 
 <!--
 
